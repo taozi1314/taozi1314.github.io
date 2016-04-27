@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+_posts/create_blog.sh
+_posts/x-x-x-x.md
+
